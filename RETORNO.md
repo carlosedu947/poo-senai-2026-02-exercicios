@@ -1,20 +1,10 @@
 # Retorno das entregas · POO com Python
 
-_Atualizado em dom, 25/10, às 08h05. Arquivo do professor: não precisa mexer nele._
+_Atualizado em seg, 26/10, às 03h28. Arquivo do professor: não precisa mexer nele._
 
 ## Em aberto
 
-### Aula 06 · Sex, 23/10
-
-| Exercício | Situação |
-|---|---|
-| ex01 | ✅ entregue em 23/10, às 21h12 |
-| ex02 | ✅ entregue em 23/10, às 21h12 |
-| ex03 | ✅ entregue em 23/10, às 21h12 |
-| ex04 | ✅ entregue em 24/10, às 21h34 |
-| ex05 | ✅ entregue em 24/10, às 21h34 |
-
-Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado · ex09 não enviado
+Nada em aberto agora.
 
 ## Encerradas
 
@@ -77,3 +67,15 @@ Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado
 | ex05 | ✅ entregue em 24/10, às 21h22 |
 
 Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado
+
+### Aula 06 · Sex, 23/10
+
+| Exercício | Situação |
+|---|---|
+| ex01 | ✅ entregue em 23/10, às 21h12 |
+| ex02 | ✅ entregue em 23/10, às 21h12 |
+| ex03 | ✅ entregue em 23/10, às 21h12 |
+| ex04 | ✅ entregue em 24/10, às 21h34 |
+| ex05 | ✅ entregue em 24/10, às 21h34 |
+
+Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado · ex09 não enviado
