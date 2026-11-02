@@ -1,20 +1,10 @@
 # Retorno das entregas · POO com Python
 
-_Atualizado em dom, 01/11, às 06h06. Arquivo do professor: não precisa mexer nele._
+_Atualizado em dom, 01/11, às 22h19. Arquivo do professor: não precisa mexer nele._
 
 ## Em aberto
 
-### Aula 08 · Sex, 30/10
-
-| Exercício | Situação |
-|---|---|
-| ex01 | ✅ entregue em 30/10, às 21h09 |
-| ex02 | ✅ entregue em 30/10, às 21h09 |
-| ex03 | ✅ entregue em 30/10, às 21h09 |
-| ex04 | ⏳ falta entregar: o prazo é dom, 01/11, às 22h15. |
-| ex05 | ⏳ falta entregar: o prazo é dom, 01/11, às 22h15. |
-
-Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado
+Nada em aberto agora.
 
 ## Encerradas
 
@@ -99,5 +89,17 @@ Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado · ex09 �
 | ex03 | ✅ entregue em 30/10, às 23h00 |
 | ex04 | ✅ entregue em 30/10, às 23h00 |
 | ex05 | ✅ entregue em 30/10, às 23h00 |
+
+Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado
+
+### Aula 08 · Sex, 30/10
+
+| Exercício | Situação |
+|---|---|
+| ex01 | ✅ entregue em 30/10, às 21h09 |
+| ex02 | ✅ entregue em 30/10, às 21h09 |
+| ex03 | ✅ entregue em 30/10, às 21h09 |
+| ex04 | ❌ não entregue até o prazo (01/11, às 22h15). Ainda vale 70% se enviado até 12/11. |
+| ex05 | ❌ não entregue até o prazo (01/11, às 22h15). Ainda vale 70% se enviado até 12/11. |
 
 Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado
