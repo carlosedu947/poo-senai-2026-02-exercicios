@@ -1,6 +1,6 @@
 # Retorno das entregas · POO com Python
 
-_Atualizado em sáb, 07/11, às 22h17. Arquivo do professor: não precisa mexer nele._
+_Atualizado em qua, 11/11, às 14h19. Arquivo do professor: não precisa mexer nele._
 
 ## Em aberto
 
@@ -121,9 +121,9 @@ Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado
 | Exercício | Situação |
 |---|---|
 | ex01 | ✅ entregue em 05/11, às 21h26 |
-| ex02 | ❌ não entregue até o prazo (07/11, às 22h15). Ainda vale 70% se enviado até 12/11. |
-| ex03 | ❌ não entregue até o prazo (07/11, às 22h15). Ainda vale 70% se enviado até 12/11. |
-| ex04 | ❌ não entregue até o prazo (07/11, às 22h15). Ainda vale 70% se enviado até 12/11. |
-| ex05 | ❌ não entregue até o prazo (07/11, às 22h15). Ainda vale 70% se enviado até 12/11. |
+| ex02 | ⚠️ entregue com atraso em 11/11, às 11h47: vale 70% |
+| ex03 | ⚠️ entregue com atraso em 11/11, às 11h47: vale 70% |
+| ex04 | ⚠️ entregue com atraso em 11/11, às 11h47: vale 70% |
+| ex05 | ⚠️ entregue com atraso em 11/11, às 11h47: vale 70% |
 
 Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado
