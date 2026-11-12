@@ -8,8 +8,8 @@ class ReservaNaoEncontradaError(Exception):
 from abc import ABC, abstractmethod
 class Quarto(ABC):
     def __init__(self, numero, diaria_base):
-        self.numero = numero            # passa pelo setter
-        self.diaria_base = diaria_base  # passa pelo setter
+        self.numero = numero            
+        self.diaria_base = diaria_base  
  
     @property
     def numero(self):
