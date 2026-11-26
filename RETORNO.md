@@ -1,10 +1,20 @@
 # Retorno das entregas · POO com Python
 
-_Atualizado em qui, 26/11, às 08h12. Arquivo do professor: não precisa mexer nele._
+_Atualizado em qui, 26/11, às 18h30. Arquivo do professor: não precisa mexer nele._
 
 ## Em aberto
 
-Nada em aberto agora.
+### Aula 15 · Qui, 26/11
+
+| Exercício | Situação |
+|---|---|
+| ex01 | ⏳ falta entregar: o prazo é qui, 26/11, às 23h59. |
+| ex02 | ⏳ falta entregar: o prazo é qui, 26/11, às 23h59. |
+| ex03 | ⏳ falta entregar: o prazo é qui, 26/11, às 23h59. |
+| ex04 | ⏳ falta entregar: o prazo é sáb, 28/11, às 22h15. |
+| ex05 | ⏳ falta entregar: o prazo é sáb, 28/11, às 22h15. |
+
+Opcionais: ex06 não enviado · ex07 não enviado · ex08 não enviado
 
 ## Encerradas
 
